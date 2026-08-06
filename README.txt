@@ -7,3 +7,4 @@ The repository root should show index.html, research.html, people.html, style.cs
 
 The site will then be available at:
 https://culumberlab.github.io
+Deployment trigger: 2026-08-06
